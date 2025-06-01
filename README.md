@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Santosh Kumar 👋
 
-<!--
-**santosh-kumar-770/santosh-kumar-770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student passionate about technology and learning new skills. Currently, I'm focusing on:
 
-Here are some ideas to get you started:
+- 📚 Learning **Python**
+- 🌐 Skilled in **HTML** and **CSS** for web development
+- 🚀 Exploring new technologies and looking forward to building awesome projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm still at the beginning of my journey—haven't done many projects yet, but I'm eager to grow and contribute to the developer community.
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/santosh-kumar-484125316)
+
+Thanks for visiting my profile! 😊
